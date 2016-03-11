@@ -1,5 +1,6 @@
 /*
 Program: Fraction Calculator, Fraction.java
+Created for assignment in Object Oriented Programming course, Fall 2015
 Contributor(s): Scott Williams
 Created on: 9-27-15
 Last Modified On: 3-11-16
